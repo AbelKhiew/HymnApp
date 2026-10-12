@@ -4,7 +4,7 @@
             "outputFile": "com.abel.hymnal.app-mergeDebugResources-43:/values-da/values-da.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Abel\\.gradle\\caches\\8.13\\transforms\\9105874f702c86f013a206a0a2640fc4\\transformed\\ui-release\\res\\values-da\\values-da.xml",
+                    "source": "C:\\Users\\Abel\\.gradle\\caches\\9.4.1\\transforms\\4e2fce7e89fcace8f3a732b1b5ea48f3\\transformed\\ui-release\\res\\values-da\\values-da.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Abel\\.gradle\\caches\\8.13\\transforms\\8683bf207cde89c39f72466d37db2c44\\transformed\\core-1.13.1\\res\\values-da\\values-da.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,151,253,350,448,555,664,782",
-                        "endColumns": "95,101,96,97,106,108,117,100",
-                        "endOffsets": "146,248,345,443,550,659,777,878"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,79",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,201,303,400,498,605,714,8015",
-                        "endColumns": "95,101,96,97,106,108,117,100",
-                        "endOffsets": "196,298,395,493,600,709,827,8111"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Abel\\.gradle\\caches\\8.13\\transforms\\d4f562ebf7919e2a1c896d1e4b8a7334\\transformed\\material3-release\\res\\values-da\\values-da.xml",
+                    "source": "C:\\Users\\Abel\\.gradle\\caches\\9.4.1\\transforms\\0cb4420936b7dab45542f044e4b943b1\\transformed\\material3-release\\res\\values-da\\values-da.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Abel\\.gradle\\caches\\8.13\\transforms\\322a0099c0be7ae4b9be18001d23bd15\\transformed\\foundation-release\\res\\values-da\\values-da.xml",
+                    "source": "C:\\Users\\Abel\\.gradle\\caches\\9.4.1\\transforms\\9bda17bff03e90814daf4b2515d90b2e\\transformed\\foundation-release\\res\\values-da\\values-da.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -69,6 +52,23 @@
                         "startOffsets": "8381,8471",
                         "endColumns": "89,86",
                         "endOffsets": "8466,8553"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Abel\\.gradle\\caches\\9.4.1\\transforms\\61480ec37d06548009f2dabf0bc7c6d5\\transformed\\core-1.13.1\\res\\values-da\\values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,350,448,555,664,782",
+                        "endColumns": "95,101,96,97,106,108,117,100",
+                        "endOffsets": "146,248,345,443,550,659,777,878"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,79",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,303,400,498,605,714,8015",
+                        "endColumns": "95,101,96,97,106,108,117,100",
+                        "endOffsets": "196,298,395,493,600,709,827,8111"
                     }
                 }
             ]
