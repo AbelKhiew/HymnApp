@@ -1,0 +1,5 @@
+-keepattributes *Annotation*, InnerClasses
+-dontnote kotlinx.serialization.**
+-keep,includedescriptorclasses class com.abel.hymnal.**$$serializer { *; }
+-keepclassmembers class com.abel.hymnal.** { *** Companion; }
+-keepclasseswithmembers class com.abel.hymnal.** { kotlinx.serialization.KSerializer serializer(...); }
